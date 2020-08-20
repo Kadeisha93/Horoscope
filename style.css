@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;
+}
+body{
+background-image: url("horoscope.jpg");
+background-color: #cccccc; /* Used if the image is unavailable */
+height: 600px; /* You must set a specified height */
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+}
+.contain{
+  text-align:center;
+  padding-top: 8%;
+}
+h1{
+  font-family: "Gill Sans MT", "Gill Sans", "My Gill Sans", sans-serif;
+  font-size: 3em;
+}
+#bday{
+  font-family: "Gill Sans MT", "Gill Sans", "My Gill Sans", sans-serif;
+  font-size: 1.5em;
+}
+#resButt{
+  background: transparent;
+  height: 40px;
+}
+#month, #day{
+  height: 50px;
+  width: 25%;
+  border-radius: 2px;
+  opacity: 0.8;
+}
+#signs{
+  font-size: 2em;
+  color: rgb(60,91,130);
+  font-weight: 600;
+}

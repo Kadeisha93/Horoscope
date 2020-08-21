@@ -1,7 +1,7 @@
 # Horoscope
-Welcome to my horoscope app. Input your birth month and day to find out your zodiac sign. 
+Welcome to my horoscope app. Input your birth month and day to find out your zodiac sign.
 ## **Link to project:** https://kr-horoscope.netlify.app/
-![horoscope](zodiacPic.jpg)
+![horoscope](zodiacPic.png)
 
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript
